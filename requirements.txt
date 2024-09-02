@@ -1,0 +1,5 @@
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1724034870209/work/dist/numpy-2.1.0-cp312-cp312-macosx_11_0_arm64.whl#sha256=d756abee27d7385d3bc647b7f195eee56a03e0baf9b75fe868cbea9727e35954
+opencv-python==4.10.0
+opencv-python-headless==4.10.0
+setuptools==72.2.0
+wheel==0.44.0
