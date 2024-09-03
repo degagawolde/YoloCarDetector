@@ -9,10 +9,8 @@
 ## Run
 
 * Run `python care_detector.py `in the shell
-
+* press **Q** to stop the program
 
 * [X] All the necessary file are included in the clone repository
-
-
 
 You can also explore the jupyter notebook for details **YoloV8CarDetector.ipynb**
